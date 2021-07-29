@@ -35,3 +35,28 @@ print(favorite_language.strip())
 quoter = "Albert Einstein"
 quote = "A person who never made a mistake never tried anything new"
 print(quote + " - " + quoter);
+
+# numbers
+# integers
+print(2 + 3)
+print(2 - 3)
+print(2 * 3)
+print(2 / 3)
+
+# floats
+print(0.1 + 0.1)
+print(0.2 + 0.2)
+print(2 * 0.1)
+print(2 + 0.2)
+
+print(0.2 + 0.1)
+
+age=23
+message = "Happy " + str(age) + "rd Birthday!"
+print(message)
+
+favorite_number = 1
+message = "My favorite number is " + str(favorite_number)
+print(message)
+
+# comments
