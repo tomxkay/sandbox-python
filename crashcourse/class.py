@@ -362,3 +362,24 @@ my_tesla.upgrade_battery()
 my_tesla.battery.get_range()
 
 
+# importing class
+# keep your files as uncluttered as possible
+# python lets you store classes in modules and then import the classes you need
+# into your main program
+
+# importing a single class
+
+# storing multiple classes in a module
+
+# importing multiple classes from a module
+
+# importing an entire module
+# import module_name
+
+# importing all clases from a module
+# from module_name import *
+
+# importing a module into a module
+
+# finding your own workflow
+# find an approach that lets you write code that works, and go from there
