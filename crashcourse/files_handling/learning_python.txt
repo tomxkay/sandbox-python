@@ -1,0 +1,13 @@
+In python you can declare variables to store data
+In python you can create lists to store datas of different types
+In python you can create dictionaries to store key pair values
+In python you can loop over data to perform a task to each iteration
+In python you can use conditional tests to control the code flow
+In python you can isolate code into callable functions for reusability
+In python you can create classes to represent real world objects
+In python you can create objects by instantiating classes
+In python you can separate code into modules that can be easily shared,
+organized and reuse code
+In python you can utilize the python standard library to access commonly used
+utilities
+In python you can read from a file
